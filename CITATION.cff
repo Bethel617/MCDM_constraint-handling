@@ -17,7 +17,7 @@ authors:
     affiliation: "Department of Mechanical Engineering, Jadavpur University, Kolkata 700032 WB, India"
 version: "1.0.0"
 date-released: "2026-11-10"
-license: "MIT AND CC-BY-4.0"
+license: "CC-BY-4.0"
 keywords:
   - multi-criteria decision making
   - constraint handling
