@@ -1,0 +1,10 @@
+dataset,source_row,speed,f,ap,category,Ra,MRR,MRR_type,source
+D,1,75,0.1,1.0,Dry,1.525,7500.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,2,125,0.1,1.0,Wet,1.19,12500.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,3,175,0.1,1.0,Cryogenic,0.99,17500.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,4,75,0.15,1.0,Cryogenic,1.725,11250.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,5,125,0.15,1.0,Dry,1.79,18750.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,6,175,0.15,1.0,Wet,1.5550000000000002,26250.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,7,75,0.2,1.0,Wet,2.87,15000.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,8,125,0.2,1.0,Cryogenic,2.48,25000.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"
+D,9,175,0.2,1.0,Dry,2.605,35000.0,nominal,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2"

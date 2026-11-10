@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Data and code for: When does constraint handling change the decision? Feasibility filtering versus penalties in multi-criteria selection of process conditions"
+type: dataset
+authors:
+  - family-names: "Priyadarsini K"
+    given-names: "Lidiya"
+    affiliation: "Department of Mechanical Engineering, Jadavpur University, Kolkata 700032 WB, India"
+  - family-names: "Haldar"
+    given-names: "Anupam"
+    affiliation: "Department of Mechanical Engineering, Netaji Subhash Engineering College, Garia Kolkata 700152, WB, India"
+  - family-names: "Mandal"
+    given-names: "Abhishek"
+    affiliation: "Department of Mechanical Engineering, Jadavpur University, Kolkata 700032 WB, India"
+  - family-names: "Sen"
+    given-names: "Rajat Subhra"
+    affiliation: "Department of Mechanical Engineering, Jadavpur University, Kolkata 700032 WB, India"
+version: "1.0.0"
+date-released: "2026-11-10"
+license: "MIT AND CC-BY-4.0"
+keywords:
+  - multi-criteria decision making
+  - constraint handling
+  - TOPSIS
+  - Ti-6Al-4V turning
+  - surface roughness
+  - material removal rate

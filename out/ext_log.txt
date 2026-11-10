@@ -1,0 +1,2 @@
+empirical 41310 cases; threshold rule holds: True 1s
+synthetic 2754000 210s

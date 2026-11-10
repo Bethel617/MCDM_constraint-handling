@@ -1,0 +1,95 @@
+source_row,speed,f,ap,Ra,MRR_source,MRR,category,MRR_type,dataset,source,group,run,f_in,N_rpm,m_before,m_after,t_recorded,f_mm,dm,t_calc
+1,1000.0,0.1,0.5,2.83,424.34,25460.399999999998,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+2,1000.0,0.1,0.75,3.2,452.65,27159.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+3,1000.0,0.1,1.0,3.64,472.91,28374.600000000002,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+4,1000.0,0.15,0.5,3.45,465.75,27945.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+5,1000.0,0.15,0.75,4.3,483.96,29037.6,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+6,1000.0,0.15,1.0,4.52,496.52,29791.199999999997,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+7,1000.0,0.2,0.5,4.25,485.91,29154.600000000002,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+8,1000.0,0.2,0.75,4.82,502.74,30164.4,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+9,1000.0,0.2,1.0,5.72,523.86,31431.600000000002,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+10,1500.0,0.1,0.5,2.43,512.75,30765.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+11,1500.0,0.1,0.75,2.93,534.85,32091.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+12,1500.0,0.1,1.0,3.35,552.97,33178.200000000004,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+13,1500.0,0.15,0.5,3.05,524.85,31491.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+14,1500.0,0.15,0.75,3.42,542.86,32571.600000000002,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+15,1500.0,0.15,1.0,4.05,560.32,33619.200000000004,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+16,1500.0,0.2,0.5,3.73,553.64,33218.4,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+17,1500.0,0.2,0.75,4.05,571.95,34317.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+18,1500.0,0.2,1.0,4.72,592.65,35559.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+19,2000.0,0.1,0.5,1.96,581.55,34893.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+20,2000.0,0.1,0.75,2.24,598.53,35911.799999999996,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+21,2000.0,0.1,1.0,2.95,620.74,37244.4,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+22,2000.0,0.15,0.5,2.82,596.52,35791.2,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+23,2000.0,0.15,0.75,3.08,621.95,37317.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+24,2000.0,0.15,1.0,3.65,640.75,38445.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+25,2000.0,0.2,0.5,3.24,620.84,37250.4,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+26,2000.0,0.2,0.75,3.82,642.86,38571.6,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+27,2000.0,0.2,1.0,4.02,660.25,39615.0,,measured (source: mm3/s),A,"Rajaparthiban & Naveen Sait (2018), Mechanika 24(4), Table 3",,,,,,,,,,
+1,50.0,0.08,0.2,0.589,,800.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+2,75.0,0.12,0.2,0.869,,1800.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+3,100.0,0.16,0.2,1.249,,3200.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+4,50.0,0.08,0.4,0.673,,1600.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+5,75.0,0.12,0.4,0.755,,3600.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+6,100.0,0.16,0.4,1.25,,6400.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+7,50.0,0.12,0.6,0.845,,3600.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+8,75.0,0.16,0.6,1.277,,7200.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+9,100.0,0.08,0.6,0.765,,4800.0,H13A,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+10,50.0,0.16,0.2,1.191,,1600.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+11,75.0,0.08,0.2,0.468,,1200.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+12,100.0,0.12,0.2,0.662,,2400.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+13,50.0,0.12,0.4,0.652,,2400.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+14,75.0,0.16,0.4,1.236,,4800.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+15,100.0,0.08,0.4,0.483,,3200.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+16,50.0,0.16,0.6,1.066,,4800.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+17,75.0,0.08,0.6,0.467,,3600.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+18,100.0,0.12,0.6,0.57,,7200.0,GC1125,nominal,B,"Belbellaa et al. (2023), Periodica Polytechnica Mech. Eng. 67(1), Table 4",,,,,,,,,,
+1,150.0,0.1,0.2,0.68,,3000.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+2,150.0,0.15,0.5,0.71,,11250.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+3,239.0,0.15,0.2,0.46,,7170.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+4,90.1,0.15,0.8,1.16,,10812.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+5,150.0,0.2,0.8,0.78,,24000.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+6,239.0,0.1,0.5,0.42,,11950.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+7,239.0,0.2,0.5,0.49,,23900.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+8,150.0,0.2,0.2,0.8,,6000.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+9,90.1,0.1,0.5,1.11,,4505.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+10,90.1,0.2,0.5,1.19,,9010.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+11,90.1,0.15,0.2,1.17,,2703.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+12,150.0,0.1,0.8,0.69,,12000.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+13,239.0,0.15,0.8,0.48,,28680.0,,nominal,C,"Niharika et al. (2016), Archive of Mechanical Engineering 63(4), Box-Behnken results table",,,,,,,,,,
+1,75.0,0.1,1.0,1.525,,7500.0,Dry,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+2,125.0,0.1,1.0,1.19,,12500.0,Wet,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+3,175.0,0.1,1.0,0.99,,17500.0,Cryogenic,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+4,75.0,0.15,1.0,1.725,,11250.0,Cryogenic,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+5,125.0,0.15,1.0,1.79,,18750.0,Dry,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+6,175.0,0.15,1.0,1.5550000000000002,,26250.0,Wet,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+7,75.0,0.2,1.0,2.87,,15000.0,Wet,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+8,125.0,0.2,1.0,2.48,,25000.0,Cryogenic,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+9,175.0,0.2,1.0,2.605,,35000.0,Dry,nominal,D,"Khan & Jaffery (2025), Procedia CIRP 135, Tables 1-2",,,,,,,,,,
+1,45.0,0.1,0.3,0.712,,819.2216704288941,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",1.0,10.0,0.0038,235.0,3218.0,3210.0,132.0,0.09652,8.0,132.26230259851337
+2,45.0,0.1,0.1,0.735,,307.2081264108352,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",2.0,1.0,0.0038,235.0,3210.0,3207.0,132.0,0.09652,3.0,132.26230259851337
+3,45.0,0.15,0.1,0.762,,148.21444695259595,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",3.0,4.0,0.0055,235.0,3207.0,3206.0,91.0,0.1397,1.0,91.38122724988197
+4,45.0,0.2,0.1,1.789,,819.2216704288941,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",4.0,7.0,0.0076,235.0,3206.0,3202.0,66.0,0.19304,4.0,66.13115129925669
+5,45.0,0.15,0.5,1.001,,2816.074492099323,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",5.0,22.0,0.0055,235.0,3202.0,3183.0,91.0,0.1397,19.0,91.38122724988197
+6,45.0,0.1,0.5,0.84,,2457.6650112866814,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",6.0,19.0,0.0038,235.0,3183.0,3159.0,132.0,0.09652,24.0,132.26230259851337
+7,45.0,0.2,0.3,0.626,,1638.4433408577881,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",7.0,16.0,0.0076,235.0,3159.0,3151.0,66.0,0.19304,8.0,66.13115129925669
+8,45.0,0.15,0.3,1.463,,1926.7878103837475,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",8.0,13.0,0.0055,235.0,3151.0,3138.0,91.0,0.1397,13.0,91.38122724988197
+9,45.0,0.2,0.5,1.681,,3276.8866817155763,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",9.0,25.0,0.0076,235.0,3124.0,3108.0,66.0,0.19304,16.0,66.13115129925669
+10,70.0,0.15,0.1,0.542,,1456.9164785553044,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",10.0,5.0,0.0055,385.0,3138.0,3132.0,56.0,0.1397,6.0,55.77815169797991
+11,70.0,0.1,0.1,0.542,,1174.3629796839728,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",11.0,2.0,0.0038,385.0,3132.0,3125.0,81.0,0.09652,7.0,80.73153535233934
+12,70.0,0.15,0.3,0.715,,3642.2911963882616,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",12.0,14.0,0.0055,385.0,3108.0,3093.0,56.0,0.1397,15.0,55.77815169797991
+13,70.0,0.1,0.3,1.654,,1677.6613995485327,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",13.0,11.0,0.0038,385.0,3093.0,3083.0,81.0,0.09652,10.0,80.73153535233934
+14,70.0,0.2,0.3,1.87,,3690.855079006772,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",14.0,17.0,0.0076,385.0,3083.0,3072.0,40.0,0.19304,11.0,40.36576767616967
+15,70.0,0.2,0.1,0.526,,1342.1291196388263,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",15.0,8.0,0.0076,385.0,3072.0,3068.0,40.0,0.19304,4.0,40.36576767616967
+16,70.0,0.15,0.5,0.861,,3642.2911963882616,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",16.0,23.0,0.0055,385.0,2975.0,2960.0,56.0,0.1397,15.0,55.77815169797991
+17,70.0,0.1,0.5,0.683,,3355.3227990970654,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",17.0,20.0,0.0038,385.0,2960.0,2940.0,81.0,0.09652,20.0,80.73153535233934
+18,70.0,0.2,0.5,0.995,,6039.581038374717,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",18.0,26.0,0.0076,385.0,2864.0,2846.0,40.0,0.19304,18.0,40.36576767616967
+19,90.0,0.1,0.1,0.639,,1078.4966139954854,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",19.0,3.0,0.0038,495.0,2940.0,2935.0,63.0,0.09652,5.0,62.79119416293059
+20,90.0,0.15,0.5,2.643,,5619.534988713318,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",20.0,24.0,0.0055,495.0,2913.0,2895.0,43.0,0.1397,18.0,43.38300687620659
+21,90.0,0.2,0.5,0.789,,7765.175620767494,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",21.0,27.0,0.0076,495.0,2895.0,2877.0,31.0,0.19304,18.0,31.395597081465294
+22,90.0,0.15,0.3,1.285,,4058.553047404064,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",22.0,15.0,0.0055,495.0,2877.0,2864.0,43.0,0.1397,13.0,43.38300687620659
+23,90.0,0.1,0.5,0.683,,4098.287133182845,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",23.0,21.0,0.0038,495.0,2846.0,2827.0,63.0,0.09652,19.0,62.79119416293059
+24,90.0,0.2,0.1,2.055,,862.7972911963884,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",24.0,9.0,0.0076,495.0,2827.0,2825.0,31.0,0.19304,2.0,31.395597081465294
+25,90.0,0.15,0.1,0.841,,1560.981941309255,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",25.0,6.0,0.0055,495.0,2825.0,2820.0,43.0,0.1397,5.0,43.38300687620659
+26,90.0,0.1,0.3,0.784,,3019.790519187359,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",26.0,12.0,0.0038,495.0,2820.0,2806.0,63.0,0.09652,14.0,62.79119416293059
+27,90.0,0.2,0.3,1.514,,6039.581038374718,,measured (mass loss),E,"Ra: Priyadarsini et al. (2026), Eng. Res. Express 8 085409, Table 5; MRR: authors' mass-loss records",27.0,18.0,0.0076,495.0,2780.0,2766.0,31.0,0.19304,14.0,31.395597081465294

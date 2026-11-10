@@ -1,0 +1,6 @@
+ds,outcome,cases,dRa,dMRR,dRa_pct,dMRR_pct,exceed_med,exceed_max
+A,Reference only,27,0.28,1018.8,7.447,7.198,0.0,0.0
+B,Exclusion only,19,0.103,3600.0,12.716,56.25,7.375,19.122
+C,Exclusion only,37,0.06,16730.0,7.792,64.403,0.84,3.448
+D,Exclusion only,60,0.565,8750.0,30.053,31.818,1.171,35.217
+E,Exclusion only,88,0.106,3666.888,5.007,48.141,6.954,33.187
